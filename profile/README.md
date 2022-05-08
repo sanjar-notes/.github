@@ -4,4 +4,4 @@
 
 You can view everything here, because it's all [Markdown](https://en.wikipedia.org/wiki/Markdown) 😄
 
-This is all my knowledge, in one place. See ![dependency-graph](../assets/personal_knowledge_base.svg)
+This is all my knowledge, in one place. See [dependency-graph](https://github.com/sanjar-notes/.github/blob/main/assets/personal_knowledge_base.svg)
