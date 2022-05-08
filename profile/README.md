@@ -4,4 +4,4 @@
 
 You can view everything here, because it's all [Markdown](https://en.wikipedia.org/wiki/Markdown) 😄
 
-This is all my knowledge, in one place. See [dependency-graph](../assets/old_pkb.html)
+This is all my knowledge, in one place. See [dependency-graph](../assets/pkb.html)
