@@ -1,5 +1,5 @@
 ## What
-This folder (aka GitHub org) is a part of my  personal knowledge base ([PKB](https://en.wikipedia.org/wiki/Personal_knowledge_base))
+This folder (aka GitHub org) is a part of my  [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base)
 
 It stores long-term nodes (stuff that needs deliberation and version control -like math, programming, physics, economics etc).
 
