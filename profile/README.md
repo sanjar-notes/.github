@@ -1,7 +1,7 @@
 ## What
 This folder (aka GitHub org) is a part of my  personal knowledge base ([PKB](https://en.wikipedia.org/wiki/Personal_knowledge_base))
 
-It stores long-term nodes. By long-term I mean nodes that need deliberate work and need to be recorded/edited long-term (like math, programming, physics, economics etc).
+It stores long-term nodes (stuff that needs deliberation and version control -like math, programming, physics, economics etc).
 
 ## Actions
 - Contribution guidelines - create issues or sumbit PRs
